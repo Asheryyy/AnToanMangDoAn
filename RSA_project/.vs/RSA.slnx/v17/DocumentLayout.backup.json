@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|d:\\hk2-2025_2026\\antoanmang\\doan\\antoanmangdoan\\rsa_project\\frmpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:frmpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|d:\\hk2-2025_2026\\antoanmang\\doan\\antoanmangdoan\\rsa_project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|d:\\hk2-2025_2026\\antoanmang\\doan\\antoanmangdoan\\rsa_project\\frmpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:frmpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|d:\\hk2-2025_2026\\antoanmang\\doan\\antoanmangdoan\\rsa_project\\frmrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:frmrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|d:\\hk2-2025_2026\\antoanmang\\doan\\antoanmangdoan\\rsa_project\\frmrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:frmrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|d:\\hk2-2025_2026\\antoanmang\\doan\\antoanmangdoan\\rsa_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|d:\\hk2-2025_2026\\antoanmang\\doan\\antoanmangdoan\\rsa_project\\rsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{132CB2E8-4236-6FBA-F44E-A43DD7FD0E81}|RSA.csproj|solutionrelative:rsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPf.cs",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmPf.cs",
+              "RelativeDocumentMoniker": "frmPf.cs",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmPf.cs*",
+              "RelativeToolTip": "frmPf.cs*",
+              "ViewState": "AgIAALEAAAAAAAAAAAAwwNMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:22:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPf.cs [Design]",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmPf.cs",
+              "RelativeDocumentMoniker": "frmPf.cs",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmPf.cs [Design]*",
+              "RelativeToolTip": "frmPf.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:22:42.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRSA.cs [Design]",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmRSA.cs",
+              "RelativeDocumentMoniker": "frmRSA.cs",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmRSA.cs [Design]",
+              "RelativeToolTip": "frmRSA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:21:09.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\dashboard.cs",
+              "RelativeToolTip": "dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:12:22.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\dashboard.cs",
+              "RelativeDocumentMoniker": "dashboard.cs",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\dashboard.cs [Design]",
+              "RelativeToolTip": "dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:11:37.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RSA.csproj",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\RSA.csproj",
+              "RelativeDocumentMoniker": "RSA.csproj",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\RSA.csproj",
+              "RelativeToolTip": "RSA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T00:54:58.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRSA.cs",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmRSA.cs",
+              "RelativeDocumentMoniker": "frmRSA.cs",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\frmRSA.cs",
+              "RelativeToolTip": "frmRSA.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:50:19.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HK2-2025_2026\\AnToanMang\\DOAN\\AnToanMangDoAn\\RSA_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:48:04.579Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
