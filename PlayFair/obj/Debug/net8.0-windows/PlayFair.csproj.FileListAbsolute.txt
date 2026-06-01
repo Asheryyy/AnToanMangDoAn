@@ -1,5 +1,0 @@
-D:\HK2-2025_2026\AnToanMang\DOAN\AnToanMangDoAn\PlayFair\obj\Debug\net8.0-windows\PlayFair.GeneratedMSBuildEditorConfig.editorconfig
-D:\HK2-2025_2026\AnToanMang\DOAN\AnToanMangDoAn\PlayFair\obj\Debug\net8.0-windows\PlayFair.AssemblyInfoInputs.cache
-D:\HK2-2025_2026\AnToanMang\DOAN\AnToanMangDoAn\PlayFair\obj\Debug\net8.0-windows\PlayFair.AssemblyInfo.cs
-D:\HK2-2025_2026\AnToanMang\DOAN\AnToanMangDoAn\PlayFair\obj\Debug\net8.0-windows\PlayFair.csproj.CoreCompileInputs.cache
-D:\HK2-2025_2026\AnToanMang\DOAN\AnToanMangDoAn\PlayFair\obj\Debug\net8.0-windows\PlayFair.sourcelink.json

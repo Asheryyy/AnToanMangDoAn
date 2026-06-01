@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RSA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4a4109e02caac47f06d6354290482ce7c9d2ff3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a1f7db4afc917d91b99ad434ed05a753b4d018b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RSA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RSA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
